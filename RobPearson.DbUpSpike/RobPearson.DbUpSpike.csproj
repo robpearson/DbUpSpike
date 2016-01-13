@@ -54,6 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Scripts\Script0002 - Add Column.sql" />
     <EmbeddedResource Include="Scripts\Script0001 - New Table.sql" />
+    <EmbeddedResource Include="Scripts\Script0003 - Add Dupe.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
